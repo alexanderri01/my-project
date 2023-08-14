@@ -1,1 +1,3 @@
 Third file text
+new text
+new text after commit
